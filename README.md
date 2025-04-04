@@ -8,7 +8,8 @@ SES(System EngineerS)Club・Control Team
 JAPAN STUDENT DAO・Developer  
 
 I studying HCMT(Hiroshima College of Maritime Technology)  
-Department of ElectronicControl Engineering 1st year  
+Department of Integrated Arts and Science,Electronics and Information Systems 2nd year  
+Enrollment in 2024  
 
 Hardware Engineer  
 Software Engineer  
@@ -22,16 +23,17 @@ SES同好会所属・制御班
 JAPAN STUDENT DAO・Developer  
 
 広島商船高等専門学校に通っています  
-電子制御工学科1年次  
+総合科学科電子情報システム系2年次  
+2024年度入学  
 
 ハードウェアエンジニア  
 ソフトウェアエンジニア  
 
 ## Skils
 
-| Badge | Language | Badge | Language |
-|:-----:|:--------:|:-----:|:--------:|
-| [![C](https://custom-icon-badges.herokuapp.com/badge/-555555.svg?logo=c-in-hexagon&logoColor=white)]() | C | [![C++](https://custom-icon-badges.herokuapp.com/badge/-f34b7d.svg?logo=Cplusplus&logoColor=white)]() | C++ |
+| Badge | Language | Badge | Language | Badge | Language |
+|:-----:|:--------:|:-----:|:--------:|:----:|:--------:|
+| [![C](https://custom-icon-badges.herokuapp.com/badge/-555555.svg?logo=c-in-hexagon&logoColor=white)]() | C | [![C++](https://custom-icon-badges.herokuapp.com/badge/-f34b7d.svg?logo=Cplusplus&logoColor=white)]() | C++ | [![Arduino](https://custom-icon-badges.herokuapp.com/badge/-007580.svg?logo=Arduino&logoColor=white)]() | Arduino |
 | [![HTML](https://custom-icon-badges.herokuapp.com/badge/-e34c26.svg?logo=HTML&logoColor=white)]() | HTML | [![CSS](https://custom-icon-badges.herokuapp.com/badge/-563d7c.svg?logo=css3)]() | CSS |
 | [![JavaScript](https://custom-icon-badges.herokuapp.com/badge/-f1e05a.svg?logo=JavaScript&logoColor=white)]() | JavaScript | [![JSON](https://custom-icon-badges.herokuapp.com/badge/-292929.svg?logo=JSON&logoColor=white)]() | JSON |
 | [![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-A97BFF.svg?logo=Kotlin&logoColor=white)]() | Kotlin | [![Nim](https://img.shields.io/badge/-43853D.svg?logo=node.js&logoColor=white)]() | Node.js |
