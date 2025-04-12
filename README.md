@@ -8,7 +8,7 @@ SES(System EngineerS)Club・Control Team
 JAPAN STUDENT DAO・Developer  
 
 I studying HCMT(Hiroshima College of Maritime Technology)  
-Department of Integrated Arts and Science,Electronics and Information Systems 2nd year  
+Department of Electronic Control Engineering 2nd Year. 
 Enrollment in 2024  
 
 Hardware Engineer  
@@ -23,7 +23,7 @@ SES同好会所属・制御班
 JAPAN STUDENT DAO・Developer  
 
 広島商船高等専門学校に通っています  
-総合科学科電子情報システム系2年次  
+電子制御工学科2年次
 2024年度入学  
 
 ハードウェアエンジニア  
