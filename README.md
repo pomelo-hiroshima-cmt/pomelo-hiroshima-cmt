@@ -27,5 +27,4 @@ Software Engineer
 |:--:|:----:|:-------:|:--:|:----:|:-------:|
 | [![Windows](https://custom-icon-badges.herokuapp.com/badge/-1BB2E4.svg?logo=Windows&logoColor=white)]() | 24H2 InsiderPreview | MSI Modern 14H D13MG | [![Windows](https://custom-icon-badges.herokuapp.com/badge/-1BB2E4.svg?logo=Windows&logoColor=white)]() | 22H2 | NEC VK27MXZDG |
 | [![Android](https://custom-icon-badges.herokuapp.com/badge/-3CDA84.svg?logo=android&logoColor=white)]() | 14 | Samsung Galaxy S24 | [![Android](https://custom-icon-badges.herokuapp.com/badge/-3CDA84.svg?logo=android&logoColor=white)]() | 9 | Huawei D-02k |
-| [![Ubuntu](https://custom-icon-badges.herokuapp.com/badge/-EA5422.svg?logo=Ubuntu&logoColor=white)]() | 16.04.3LTS | FMV-BIBLO NF40W |
-| [![Ubuntu](https://custom-icon-badges.herokuapp.com/badge/-EA5422.svg?logo=Ubuntu&logoColor=white)]() | 22.04.5LTS | FMV-Lifebook U939B |
+| [![Ubuntu](https://custom-icon-badges.herokuapp.com/badge/-EA5422.svg?logo=Ubuntu&logoColor=white)]() | 16.04.3LTS | FMV-BIBLO NF40W | [![Ubuntu](https://custom-icon-badges.herokuapp.com/badge/-EA5422.svg?logo=Ubuntu&logoColor=white)]() | 22.04.5LTS | FMV-Lifebook U939B |
