@@ -18,9 +18,9 @@ Software Engineer
 | Badge | Language | Badge | Language | Badge | Language |
 |:-----:|:--------:|:-----:|:--------:|:----:|:--------:|
 | [![C](https://custom-icon-badges.herokuapp.com/badge/-555555.svg?logo=c-in-hexagon&logoColor=white)]() | C | [![C++](https://custom-icon-badges.herokuapp.com/badge/-f34b7d.svg?logo=Cplusplus&logoColor=white)]() | C++ | [![Arduino](https://custom-icon-badges.herokuapp.com/badge/-007580.svg?logo=Arduino&logoColor=white)]() | Arduino |
-| [![HTML](https://custom-icon-badges.herokuapp.com/badge/-e34c26.svg?logo=HTML&logoColor=white)]() | HTML | [![CSS](https://custom-icon-badges.herokuapp.com/badge/-563d7c.svg?logo=css3)]() | CSS |
-| [![JavaScript](https://custom-icon-badges.herokuapp.com/badge/-f1e05a.svg?logo=JavaScript&logoColor=white)]() | JavaScript | [![JSON](https://custom-icon-badges.herokuapp.com/badge/-292929.svg?logo=JSON&logoColor=white)]() | JSON |
-| [![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-A97BFF.svg?logo=Kotlin&logoColor=white)]() | Kotlin | [![Nim](https://img.shields.io/badge/-43853D.svg?logo=node.js&logoColor=white)]() | Node.js |
+| [![HTML](https://custom-icon-badges.herokuapp.com/badge/-e34c26.svg?logo=HTML&logoColor=white)]() | HTML | [![CSS](https://custom-icon-badges.herokuapp.com/badge/-563d7c.svg?logo=css3)]() | CSS | [![Python](https://custom-icon-badges.herokuapp.com/badge/-3572A5.svg?logo=Python&logoColor=white)]() | Python |
+| [![JavaScript](https://custom-icon-badges.herokuapp.com/badge/-f1e05a.svg?logo=JavaScript&logoColor=white)]() | JavaScript | [![JSON](https://custom-icon-badges.herokuapp.com/badge/-292929.svg?logo=JSON&logoColor=white)]() | JSON | [![Bash](https://custom-icon-badges.herokuapp.com/badge/-ffffff.svg?logo=Bash&logoColor=white)]() | Bash |
+| [![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-A97BFF.svg?logo=Kotlin&logoColor=white)]() | Kotlin | [![Kotlin](https://img.shields.io/badge/-43853D.svg?logo=node.js&logoColor=white)]() | Node.js |
 
 ## Machine
 | OS | Ver. | Machine | OS | Ver. | Machine |
