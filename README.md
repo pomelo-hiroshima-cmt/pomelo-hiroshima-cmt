@@ -4,8 +4,6 @@ Hi.
 I'm Nakamura Tomoaki  
 (Another Name:Pomelo)  
 
-JAPAN STUDENT DAO・Developer  
-
 I studying HCMT(Hiroshima College of Maritime Technology)  
 Department of Electronic Control Engineering 2nd Year   
 Enrollment in 2024  
